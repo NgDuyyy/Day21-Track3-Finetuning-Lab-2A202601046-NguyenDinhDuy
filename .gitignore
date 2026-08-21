@@ -15,10 +15,6 @@ adapters/*/
 !adapters/.gitkeep
 data/split/
 data/CUSTOM_DATASET.md
-# results are tracked for submission (rubric 6.1)
-!results/*.json
-!results/*.csv
-!results/.gitkeep
 gguf/
 *.gguf
 runs/
